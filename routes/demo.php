@@ -3,5 +3,5 @@
 use RobertWesner\SimpleMvcPhp\Route;
 
 Route::get('/', function () {
-    Route::render('demo.twig');
+    return Route::render('demo.twig');
 });
