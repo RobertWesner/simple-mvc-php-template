@@ -9,4 +9,6 @@ Simple MVC for PHP
 
 </div>
 
-Template for [robertwesner/simple-mvc-php](https://github.com/RobertWesner/simple-mvc-php)
+Template for [robertwesner/simple-mvc-php](https://github.com/RobertWesner/simple-mvc-php).
+
+Please use the Docker template at [robertwesner/simple-mvc-php-docker-template](https://github.com/RobertWesner/simple-mvc-php-docker-template).
