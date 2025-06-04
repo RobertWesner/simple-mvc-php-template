@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.4",
-        "robertwesner/simple-mvc-php": "v0.9.0"
+        "robertwesner/simple-mvc-php": "v0.10.0"
     },
     "replace": {
         "symfony/polyfill-php80": "*",
