@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b7c9b9f6c8a514666b4278b6220e0a6d",
+    "content-hash": "a905f7db50b9de58af11ac6636a13962",
     "packages": [
         {
             "name": "guzzlehttp/psr7",
@@ -276,16 +276,16 @@
         },
         {
             "name": "robertwesner/simple-mvc-php",
-            "version": "v0.10.0",
+            "version": "v0.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/RobertWesner/simple-mvc-php.git",
-                "reference": "11ed1bd84c6b9348cd433d58987ccc218d4b4137"
+                "reference": "f8967906bf0a9fc2f3c4f00a5263e902594bbcc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobertWesner/simple-mvc-php/zipball/11ed1bd84c6b9348cd433d58987ccc218d4b4137",
-                "reference": "11ed1bd84c6b9348cd433d58987ccc218d4b4137",
+                "url": "https://api.github.com/repos/RobertWesner/simple-mvc-php/zipball/f8967906bf0a9fc2f3c4f00a5263e902594bbcc1",
+                "reference": "f8967906bf0a9fc2f3c4f00a5263e902594bbcc1",
                 "shasum": ""
             },
             "require": {
@@ -321,9 +321,9 @@
             "description": "A small library for creating PHP web servers.",
             "support": {
                 "issues": "https://github.com/RobertWesner/simple-mvc-php/issues",
-                "source": "https://github.com/RobertWesner/simple-mvc-php/tree/v0.10.0"
+                "source": "https://github.com/RobertWesner/simple-mvc-php/tree/v0.11.0"
             },
-            "time": "2025-06-04T16:30:31+00:00"
+            "time": "2025-06-08T14:29:19+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
